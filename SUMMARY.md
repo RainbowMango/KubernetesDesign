@@ -7,6 +7,8 @@
     * [3.1 Pod]
         * [3.1.1 Pod概述](chapter03/1.1-pod_overview.md)
         * [3.1.1 Pod初体验](chapter03/1.2-pod_quick_start.md)
+    * [3.2 ReplicationController]
+        * [3.2.1 ReplicationController概述](chapter03/2.1-replicationcontroller_overview.md)
 * [第五章：集群认证]
     * [5.1 证书]
         * [5.1.1 证书基础](chapter05/1.1-certificate.md)
