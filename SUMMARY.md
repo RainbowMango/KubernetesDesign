@@ -10,6 +10,8 @@
     * [3.2 ReplicationController]
         * [3.2.1 ReplicationController概述](chapter03/2.1-replicationcontroller_overview.md)
         * [3.2.2 ReplicationController初体验](chapter03/2.2-replicationcontroller_quick_start.md)
+    * [3.3 ReplicaSet]
+        * [3.3.1 ReplicaSet概述](chapter03/3.1-replicaset_overview.md)
 * [第五章：集群认证]
     * [5.1 证书]
         * [5.1.1 证书基础](chapter05/1.1-certificate.md)
