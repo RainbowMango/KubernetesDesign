@@ -15,6 +15,7 @@
         * [3.3.2 ReplicaSet初体验](chapter03/3.2-replicaset_quick_start.md)
     * [3.4 Deployment]
         * [3.4.1 Deployment概述](chapter03/4.1-deployment_overview.md)
+        * [3.4.2 Deployment初体验](chapter03/4.2-deployment_quickstart.md)
 * [第五章：集群认证]
     * [5.1 证书]
         * [5.1.1 证书基础](chapter05/1.1-certificate.md)
