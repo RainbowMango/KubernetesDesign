@@ -19,6 +19,9 @@
     * [3.5 DaemonSet]
         * [3.5.1 DaemonSet概述](chapter03/5.1-daemonset_overview.md)
         * [3.5.2 DaemonSet初体验](chapter03/5.2-daemonset_quickstart.md)
+* [第四章：服务]
+    * [4.1 Service]
+        * [4.1.1 Service概述](chapter04/1.1-service_overview.md)
 * [第五章：集群认证]
     * [5.1 证书]
         * [5.1.1 证书基础](chapter05/1.1-certificate.md)
