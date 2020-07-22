@@ -23,6 +23,6 @@
     * [4.1 Service]
         * [4.1.1 Service概述](chapter04/1.1-service_overview.md)
         * [4.1.1 Service上手体验](chapter04/1.2-service_quickstart.md)
-* [第五章：集群认证]
-    * [5.1 证书]
-        * [5.1.1 证书基础](chapter05/1.1-certificate.md)
+* [第七章：集群认证]
+    * [7.1 证书]
+        * [5.1.1 证书基础](chapter07/1.1-certificate.md)
