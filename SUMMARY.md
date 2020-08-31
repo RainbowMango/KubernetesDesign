@@ -23,6 +23,9 @@
     * [4.1 Service]
         * [4.1.1 Service概述](chapter04/1.1-service_overview.md)
         * [4.1.1 Service上手体验](chapter04/1.2-service_quickstart.md)
+* [第六章：配置管理]
+    * [6.1 Secret--机密信息管理]
+        * [6.1.1 Secret概述](chapter06/1.1-secret_overview.md)
 * [第七章：集群认证]
     * [7.1 证书]
         * [5.1.1 证书基础](chapter07/1.1-certificate.md)
