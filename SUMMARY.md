@@ -31,4 +31,6 @@
         * [5.1.1 证书基础](chapter07/1.1-certificate.md)
 * [第十章：ResourceQuota]
     * [10.1 ResourceQuota概述](chapter10/1.1-resourcequota_overview.md)
+* [第十六章：API设计约定]
+    * [16.1 字段可选性约定](chapter16/1.1-optional_vs_required.md)
    
