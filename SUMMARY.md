@@ -32,5 +32,6 @@
 * [第十章：ResourceQuota]
     * [10.1 ResourceQuota概述](chapter10/1.1-resourcequota_overview.md)
 * [第十六章：API设计约定]
-    * [16.1 字段可选性约定](chapter16/1.1-optional_vs_required.md)
+    * [16.1 字段可选性设计约定](chapter16/1.1-api_convention_optional_vs_required.md)
+    * [16.2 condition设计约定](chapter16/1.2-api_convention_condition.md)
    
