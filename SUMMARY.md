@@ -28,7 +28,8 @@
         * [6.1.1 Secret概述](chapter06/1.1-secret_overview.md)
 * [第七章：集群认证]
     * [7.1 证书]
-        * [5.1.1 证书基础](chapter07/1.1-certificate.md)
+        * [7.1.1 证书基础](chapter07/1.1-certificate.md)
+        * [7.1.2 证书签发流程](chapter07/1.2-certificate-sign.md)
 * [第十章：ResourceQuota]
     * [10.1 ResourceQuota概述](chapter10/1.1-resourcequota_overview.md)
 * [第十六章：API设计约定]
