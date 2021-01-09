@@ -30,6 +30,9 @@
     * [7.1 证书]
         * [7.1.1 证书基础](chapter07/1.1-certificate.md)
         * [7.1.2 证书签发流程](chapter07/1.2-certificate-sign.md)
+* [第九章：准入控制器]
+    * [9.1 准入控制器概述]
+        * [9.1.1 概述](chapter09/1.1-admissioncontroller_overview.md)
 * [第十章：ResourceQuota]
     * [10.1 ResourceQuota概述](chapter10/1.1-resourcequota_overview.md)
 * [第十六章：API设计约定]
