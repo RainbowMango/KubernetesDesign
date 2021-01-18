@@ -34,7 +34,7 @@
     * [9.1 准入控制器概述]
         * [9.1.1 概述](chapter09/1.1-admissioncontroller_overview.md)
         * [9.1.2 内置默认启动的插件]
-            [9.1.2.1 NamespaceLifecycle](chapter09/1.2.1-admissioncontroller_namespacelifecycle.md)
+            * [9.1.2.1 NamespaceLifecycle](chapter09/1.2.1-admissioncontroller_namespacelifecycle.md)
 * [第十章：ResourceQuota]
     * [10.1 ResourceQuota概述](chapter10/1.1-resourcequota_overview.md)
 * [第十六章：API设计约定]
