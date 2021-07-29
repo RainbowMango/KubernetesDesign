@@ -46,4 +46,5 @@
     * [19.1 Kind]
         * [19.1.1 Kind概述]
         * [19.1.2 映射端口到主机](chapter19/1.2-mapping-ports-to-host.md)
+        * [19.1.3 配置端口转发](chapter19/1.3-port-forward.md)
     
